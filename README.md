@@ -1,3 +1,3 @@
 # Terminal Typing Test
 
-Terminal-based typing test application. 
+Terminal-based typing test program. 
